@@ -20,6 +20,6 @@ For my project I am thinking of creating an automated plant watering system. A s
 
 
 ## Project Repository
-https://github.com/DaveyFagan/Iot-project.git
+https://github.com/DaveyFagan/soilMoistureProject.git
 
 
