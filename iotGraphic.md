@@ -1,1 +1,0 @@
-![Getting Started](./images/graphic.PNG)
