@@ -27,7 +27,7 @@ What was needed:
 - Soil sensor
 - Tray
 
-![Getting Started](./images/IMG_20211221_153530.jpg)
+![Getting Started](https://cdn.glitch.me/5716faea-e3a7-4375-aaa5-6551be457781/IMG_20211221_153530.jpg?v=1640212832838)
 
 Languages and others:
 - Javascript
@@ -163,7 +163,7 @@ The app displays the state of the soil. Dry or Wet.
 There a three gauges at the bottom of the app that display the 
 temperature, humidity and pressure values.
 
-![Getting Started](./images/Capture.PNG)
+![Getting Started](https://cdn.glitch.me/5716faea-e3a7-4375-aaa5-6551be457781/Capture.PNG?v=1640212839760)
 
 How to set up blynk app:
 1. Go to the Blynk Web Site and click the "Start Free" button - www.blynk.cloud
